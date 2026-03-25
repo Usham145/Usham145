@@ -22,27 +22,20 @@
 
 ## Main Tools And Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,js,ts,nodejs,express,react,nextjs,html,css,tailwind,bootstrap,mongodb,mysql,postgres,redis,docker,kubernetes,aws,git,github,vscode,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,nodejs,react,html,css,mongodb,mysql,docker,git,github,vscode" />
 </p>
 
 ## Tool Belt
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
-
-## Signature Projects
-| Project | What it does | Stack | Status |
-|---|---|---|---|
-| CineReserve Pro | Movie booking platform with geolocation and seat flow | Node.js, Express, JavaScript, MongoDB | Active |
-| Portfolio Lab | Personal experiments in UI and animation | HTML, CSS, JavaScript | Active |
-| DSA Practice Track | Problem solving and algorithm implementations | C++, Java | Ongoing |
 
 ## GitHub Analytics
 <p align="center">
