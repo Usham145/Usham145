@@ -12,10 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=Usham145&style=for-the-badge&color=14B8A6" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Usham145&theme=onedark&row=1&column=7&margin-w=10&margin-h=10" alt="Trophies" />
-</p>
-
 ---
 
 ## About Me
