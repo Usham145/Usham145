@@ -1,5 +1,5 @@
 ﻿<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Usham145&fontAlign=50&fontAlignY=38&animation=fadeIn&color=0:020617,35:0f172a,70:1d4ed8,100:06b6d4&fontColor=ffffff&desc=Developer%20Mode%20Always%20ON&descAlign=50&descAlignY=60" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Usham145&fontAlign=50&fontAlignY=38&animation=fadeIn&color=0:020617,35:0f172a,70:1d4ed8,100:06b6d4&fontColor=ffffff&desc=Crafting%20Real-World%20Products%20Daily&descAlign=50&descAlignY=60" alt="Header" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Usham145&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Usham145&theme=onedark&row=1&column=7&margin-w=10&margin-h=10" alt="Trophies" />
 </p>
 
 ---
