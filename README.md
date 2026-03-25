@@ -23,7 +23,22 @@
 - Passionate about full stack, embedded systems, and hardware tooling.
 - Focused on shipping real projects, not just demos.
 
-## Core Stack
+## Now Coding
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Systems-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Current focus" />
+  <img src="https://img.shields.io/badge/Status-Shipping%20Daily-22C55E?style=for-the-badge&logo=githubactions&logoColor=white" alt="Current status" />
+  <img src="https://img.shields.io/badge/Learning-System%20Design%20%26%20DevOps-F59E0B?style=for-the-badge&logo=bookstack&logoColor=white" alt="Learning" />
+</p>
+
+## Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic dev quote" />
+</p>
+
+<details>
+<summary><strong>Core Stack</strong></summary>
+<br/>
+
 <p align="center">
   <a href="https://www.java.com/"><img title="Java" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
   <a href="https://isocpp.org/"><img title="C++" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
@@ -35,7 +50,12 @@
   <a href="https://developer.mozilla.org/docs/Web/CSS"><img title="CSS3" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
 </p>
 
-## Hardware And EDA
+</details>
+
+<details>
+<summary><strong>Hardware And EDA</strong></summary>
+<br/>
+
 <p align="center">
   <a href="https://www.arduino.cc/"><img title="Arduino" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /></a>
   <a href="https://www.raspberrypi.com/"><img title="Raspberry Pi" alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" /></a>
@@ -44,13 +64,20 @@
   <a href="https://www.cadence.com/"><img title="Cadence" alt="Cadence" src="https://img.shields.io/badge/Cadence-CC0000?style=for-the-badge" /></a>
 </p>
 
-## Dev Toolkit
+</details>
+
+<details>
+<summary><strong>Dev Toolkit</strong></summary>
+<br/>
+
 <p align="center">
   <a href="https://git-scm.com/"><img title="Git" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
   <a href="https://github.com/"><img title="GitHub" alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://code.visualstudio.com/"><img title="VS Code" alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></a>
   <a href="https://www.mysql.com/"><img title="MySQL" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 </p>
+
+</details>
 
 ## GitHub Analytics
 <p align="center">
@@ -65,6 +92,11 @@
 ## Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Usham145&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+</p>
+
+## Snake Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Usham145/Usham145/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution animation" />
 </p>
 
 ## Connect
