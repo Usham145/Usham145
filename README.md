@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1800&pause=600&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=980&height=100&lines=Full+Stack+Developer;Embedded+%2B+Hardware+Explorer;Code.+Build.+Break.+Improve.+Repeat." alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1800&pause=600&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=980&height=100&lines=Software+Engineer+%7C+Full+Stack+Builder;Embedded+Systems+%26+IoT+Developer;Turning+Ideas+Into+Production+Code." alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -96,7 +96,11 @@
 
 ## Snake Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Usham145/Usham145/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Usham145/Usham145/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Usham145/Usham145/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake contribution animation" src="https://raw.githubusercontent.com/Usham145/Usham145/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ## Connect
