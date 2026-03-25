@@ -1,15 +1,15 @@
 ﻿<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Usham145&fontAlign=50&fontAlignY=38&animation=fadeIn&color=0:020617,35:0f172a,70:1d4ed8,100:06b6d4&fontColor=ffffff&desc=Crafting%20Real-World%20Products%20Daily&descAlign=50&descAlignY=60" alt="Header" />
+  <a href="https://github.com/Usham145"><img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Usham145&fontAlign=50&fontAlignY=38&animation=fadeIn&color=0:020617,35:0f172a,70:1d4ed8,100:06b6d4&fontColor=ffffff&desc=Crafting%20Real-World%20Products%20Daily&descAlign=50&descAlignY=60" alt="Header" /></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1800&pause=600&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=980&height=100&lines=Software+Engineer+%7C+Full+Stack+Builder;Embedded+Systems+%26+IoT+Developer;Turning+Ideas+Into+Production+Code." alt="Typing intro" />
+  <a href="https://github.com/Usham145?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1800&pause=600&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=980&height=100&lines=Software+Engineer+%7C+Full+Stack+Builder;Embedded+Systems+%26+IoT+Developer;Turning+Ideas+Into+Production+Code." alt="Typing intro" /></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Usham145?tab=followers"><img src="https://img.shields.io/github/followers/Usham145?style=for-the-badge&logo=github&color=2563EB" alt="Followers" /></a>
   <a href="https://github.com/Usham145?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-Explore-0891B2?style=for-the-badge&logo=github" alt="Repos" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Usham145&style=for-the-badge&color=14B8A6" alt="Profile views" />
+  <a href="https://github.com/Usham145"><img src="https://komarev.com/ghpvc/?username=Usham145&style=for-the-badge&color=14B8A6" alt="Profile views" /></a>
 </p>
 
 ---
@@ -21,14 +21,14 @@
 
 ## Now Coding
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Systems-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Current focus" />
-  <img src="https://img.shields.io/badge/Status-Shipping%20Daily-22C55E?style=for-the-badge&logo=githubactions&logoColor=white" alt="Current status" />
-  <img src="https://img.shields.io/badge/Learning-System%20Design%20%26%20DevOps-F59E0B?style=for-the-badge&logo=bookstack&logoColor=white" alt="Learning" />
+  <a href="https://github.com/Usham145?tab=repositories"><img src="https://img.shields.io/badge/Focus-Full%20Stack%20Systems-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Current focus" /></a>
+  <a href="https://github.com/Usham145?tab=overview&from=2026-01-01&to=2026-12-31"><img src="https://img.shields.io/badge/Status-Shipping%20Daily-22C55E?style=for-the-badge&logo=githubactions&logoColor=white" alt="Current status" /></a>
+  <a href="https://roadmap.sh/"><img src="https://img.shields.io/badge/Learning-System%20Design%20%26%20DevOps-F59E0B?style=for-the-badge&logo=bookstack&logoColor=white" alt="Learning" /></a>
 </p>
 
 ## Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic dev quote" />
+  <a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic dev quote" /></a>
 </p>
 
 ## Core Stack
@@ -62,23 +62,23 @@
 
 ## GitHub Analytics
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Usham145&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Usham145&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <a href="https://github.com/Usham145?tab=overview&from=2026-01-01&to=2026-12-31"><img height="170" src="https://github-readme-stats.vercel.app/api?username=Usham145&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" /></a>
+  <a href="https://github.com/Usham145?tab=overview&from=2026-01-01&to=2026-12-31"><img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Usham145&theme=tokyonight&hide_border=true" alt="GitHub streak" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usham145&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <a href="https://github.com/Usham145?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usham145&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" /></a>
 </p>
 
 ## Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Usham145&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+  <a href="https://github.com/Usham145?tab=overview&from=2026-01-01&to=2026-12-31"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Usham145&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" /></a>
 </p>
 
 ## Snake Animation
 <p align="center">
-  <img alt="Snake contribution animation (dark)" src="https://raw.githubusercontent.com/Usham145/Usham145/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-  <img alt="Snake contribution animation (light)" src="https://raw.githubusercontent.com/Usham145/Usham145/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+  <a href="https://github.com/Usham145?tab=overview&from=2026-01-01&to=2026-12-31"><img alt="Snake contribution animation (dark)" src="https://raw.githubusercontent.com/Usham145/Usham145/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" /></a>
+  <a href="https://github.com/Usham145?tab=overview&from=2026-01-01&to=2026-12-31"><img alt="Snake contribution animation (light)" src="https://raw.githubusercontent.com/Usham145/Usham145/output/github-contribution-grid-snake.svg#gh-light-mode-only" /></a>
 </p>
 
 ## Connect
@@ -90,5 +90,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:020617,35:0f172a,70:1d4ed8,100:06b6d4" alt="Footer" />
+  <a href="https://github.com/Usham145"><img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:020617,35:0f172a,70:1d4ed8,100:06b6d4" alt="Footer" /></a>
 </p>
