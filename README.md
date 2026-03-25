@@ -1,59 +1,71 @@
-﻿<h1 align="center">Hi, I am Usham145</h1>
-<h3 align="center">Building products that feel fast, useful, and unforgettable</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=00B894&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Clean+Architecture+Lover;Always+Shipping+Real+Projects;Open+Source+Builder" alt="Typing intro" />
+﻿<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Usham145&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&desc=Code%20with%20intent.%20Ship%20with%20pride.&descAlign=50&descAlignY=62" alt="Header" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Usham145?tab=followers"><img src="https://img.shields.io/github/followers/Usham145?style=for-the-badge&color=00b894" alt="Followers" /></a>
-  <a href="https://github.com/Usham145"><img src="https://img.shields.io/github/stars/Usham145?affiliations=OWNER&style=for-the-badge&color=0984e3" alt="Stars" /></a>
-  <a href="https://komarev.com/ghpvc/?username=Usham145&style=for-the-badge&color=d63031"><img src="https://komarev.com/ghpvc/?username=Usham145&style=for-the-badge&color=d63031" alt="Profile views" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&width=980&lines=Full+Stack+Developer;Java+%7C+C+%7C+C%2B%2B+%7C+JavaScript;MongoDB+%7C+Docker+%7C+Node.js;Building+real+products+that+people+use" alt="Typing intro" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Usham145?tab=followers"><img src="https://img.shields.io/github/followers/Usham145?style=for-the-badge&logo=github&color=0891B2" alt="Followers" /></a>
+  <a href="https://github.com/Usham145?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-View-0EA5E9?style=for-the-badge&logo=github" alt="Repos" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Usham145&style=for-the-badge&color=14B8A6" alt="Profile views" />
 </p>
 
 ---
 
 ## About Me
-- Building production-grade web apps and APIs
-- Focused on performance, clean UI, and real user value
-- Exploring system design, cloud deployment, and AI integration
-- Open to collaboration on meaningful projects
+- I build production-ready web platforms and practical developer tools.
+- I care about clean architecture, polished UI, and speed.
+- I work with JavaScript, Java, C, C++, Node.js, MongoDB, and Docker.
+- I love turning ideas into shipped products.
 
-## Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,python,react,nextjs,tailwind,postgres,mongodb,redis,docker,git,github,vscode" />
+## Main Tools And Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,js,ts,nodejs,express,react,nextjs,html,css,tailwind,bootstrap,mongodb,mysql,postgres,redis,docker,kubernetes,aws,git,github,vscode,linux,postman" />
+</p>
+
+## Tool Belt
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ## Signature Projects
 | Project | What it does | Stack | Status |
 |---|---|---|---|
-| CineReserve Pro | Smart movie booking with geolocation and seat flow | Node.js, Express, Vanilla JS | Active |
-| Project Two | Replace with your best product | Add stack | Active |
-| Project Three | Replace with your best product | Add stack | Building |
+| CineReserve Pro | Movie booking platform with geolocation and seat flow | Node.js, Express, JavaScript, MongoDB | Active |
+| Portfolio Lab | Personal experiments in UI and animation | HTML, CSS, JavaScript | Active |
+| DSA Practice Track | Problem solving and algorithm implementations | C++, Java | Ongoing |
 
-## Live Impact
+## GitHub Analytics
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Usham145&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Usham145&theme=radical&hide_border=true" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Usham145&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Usham145&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usham145&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usham145&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
-## Contribution Graph
+## Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Usham145&theme=react-dark&hide_border=true&bg_color=0d1117" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Usham145&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
-## Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://portfolio.example.com"><img src="https://img.shields.io/badge/Portfolio-16a085?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+## Connect
+<p align="center">
+  <a href="https://github.com/Usham145"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:usham145@gmail.com"><img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
----
-
-<p align="center"><b>Build with intent. Ship with pride.</b></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f2027,50:203a43,100:2c5364" alt="Footer" />
+</p>
