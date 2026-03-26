@@ -75,12 +75,6 @@
   <a href="https://github.com/Usham145?tab=overview&from=2026-01-01&to=2026-12-31"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Usham145&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" /></a>
 </p>
 
-## Snake Animation
-<p align="center">
-  <a href="https://github.com/Usham145?tab=overview&from=2026-01-01&to=2026-12-31"><img alt="Snake contribution animation (dark)" src="https://raw.githubusercontent.com/Usham145/Usham145/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" /></a>
-  <a href="https://github.com/Usham145?tab=overview&from=2026-01-01&to=2026-12-31"><img alt="Snake contribution animation (light)" src="https://raw.githubusercontent.com/Usham145/Usham145/output/github-contribution-grid-snake.svg#gh-light-mode-only" /></a>
-</p>
-
 ## Connect
 <p align="center">
   <a href="https://github.com/Usham145"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
