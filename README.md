@@ -62,7 +62,7 @@
 
 ## GitHub Analytics
 <p align="center">
-  <a href="https://github.com/Usham145?tab=overview&from=2026-01-01&to=2026-12-31"><img height="170" src="https://github-readme-stats.vercel.app/api?username=Usham145&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" /></a>
+  <a href="https://github.com/Usham145?tab=overview&from=2026-01-01&to=2026-12-31"><img height="170" src="https://github-readme-stats.vercel.app/api?username=Usham145&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" /></a>
   <a href="https://github.com/Usham145?tab=overview&from=2026-01-01&to=2026-12-31"><img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Usham145&theme=tokyonight&hide_border=true" alt="GitHub streak" /></a>
 </p>
 
