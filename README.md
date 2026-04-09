@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://github.com/Usham145?tab=followers"><img src="https://img.shields.io/github/followers/Usham145?style=for-the-badge&logo=github&color=2563EB" alt="Followers" /></a>
   <a href="https://github.com/Usham145?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-Explore-0891B2?style=for-the-badge&logo=github" alt="Repos" /></a>
-  <a href="https://github.com/Usham145"><img src="https://komarev.com/ghpvc/?username=Usham145&style=for-the-badge&color=14B8A6" alt="Profile views" /></a>
 </p>
 
 ---
