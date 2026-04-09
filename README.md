@@ -71,7 +71,7 @@
 
 ## Contribution Activity
 <p align="center">
-  <a href="https://github.com/Usham145?tab=overview&from=2026-01-01&to=2026-12-31"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Usham145&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" /></a>
+  <a href="https://github.com/Usham145?tab=overview&from=2026-01-01&to=2026-12-31"><img src="https://ghchart.rshah.org/1d4ed8/Usham145" alt="Contribution chart" /></a>
 </p>
 
 ## Connect
